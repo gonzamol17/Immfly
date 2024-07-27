@@ -1,0 +1,19 @@
+2024-07-27 11:11:49,634 :INFO : test_VerifyElementsAreSortedByAscOrder :Se abre la home page
+2024-07-27 11:11:49,973 :INFO : test_VerifyElementsAreSortedByAscOrder :Se cierra el primer modal
+2024-07-27 11:12:07,160 :INFO : test_VerifyElementsAreSortedByAscOrder :Se selecciona la opción High Ligh Cafe
+2024-07-27 11:12:08,636 :INFO : test_VerifyElementsAreSortedByAscOrder :Se cierra el segundo modal
+2024-07-27 11:12:10,928 :INFO : test_VerifyElementsAreSortedByAscOrder :Hago scroll hasta la mitad de la pantalla para visualizar el dropdown
+2024-07-27 11:12:12,932 :INFO : test_VerifyElementsAreSortedByAscOrder :Click en Sort By, ordenando la lista de la A-Z
+2024-07-27 11:12:18,191 :INFO : test_VerifyElementsAreSortedByAscOrder :Almaceno la lista ordenada alfabéticamente de la A a la Z
+2024-07-27 11:12:22,700 :INFO : test_VerifyElementsAreSortedByAscOrder :Y ejecuto un assert para verificar que la lista que obtuve y la que tengo como esperada son iguales, de la primera página de índice
+2024-07-27 11:13:29,782 :INFO : test_VerifyIfDropdownWithDefaultOptionIsPresented :Se abre la home page
+2024-07-27 11:13:31,363 :INFO : test_VerifyIfDropdownWithDefaultOptionIsPresented :Se cierra el primer modal
+2024-07-27 11:13:56,436 :INFO : test_VerifyIfDropdownWithDefaultOptionIsPresented :Se selecciona la opción High Ligh Cafe
+2024-07-27 11:13:57,835 :INFO : test_VerifyIfDropdownWithDefaultOptionIsPresented :Se cierra el segundo modal
+2024-07-27 11:14:00,011 :INFO : test_VerifyIfDropdownWithDefaultOptionIsPresented :Hago scroll hasta la mitad de la pantalla para visualizar el dropdown
+2024-07-27 11:14:03,136 :INFO : test_VerifyIfDropdownWithDefaultOptionIsPresented :realizo un assert para verificar que el componente dropdown Sort By exista
+2024-07-27 11:14:03,272 :INFO : test_VerifyIfDropdownWithDefaultOptionIsPresented :Verifico que por defecto el titulo en el dropdown sea Default y realizo un assert
+2024-07-27 11:14:52,362 :INFO : test_VerifySixOptionsListedIntoDropdown :Se está inicializando el browser
+2024-07-27 11:15:27,706 :INFO : test_VerifySixOptionsListedIntoDropdown :Se selecciona el dropdown Sort By
+2024-07-27 11:15:28,049 :INFO : test_VerifySixOptionsListedIntoDropdown :Realizo un assert para asegurame que la opción seleccionada por default esté remarcado en fondo con color rojo
+2024-07-27 11:15:28,211 :INFO : test_VerifySixOptionsListedIntoDropdown :Realizo un assert para corroborar que al desplegar el dropdown me muestre los 6 elementos
